@@ -7,7 +7,7 @@ function mondayWork (activity = "go to the office") {
     return `This Monday, I will ${activity}.`
 }
 
-function wrapAdjective(flair = "a%"){
+let wrapAdjective = function(flair = "*"){
    function(param = "special") {
     return `You are a ${flair} ${param} ${flair}!`
   }
