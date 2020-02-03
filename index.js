@@ -38,7 +38,7 @@ function actionApplyer (int, arr) {
     return int}
   else {
       for (let i = 0; i < arr.length; i++) {
-        int = 
+        int =
       }
     }
 }
