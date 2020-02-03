@@ -32,6 +32,6 @@ let Calculator = {
 }
 
 function actionApplyer (int, arr) {
-  if arr.length === 0
-    return int
+  if (arr.length === 0){
+    return int}
 }
