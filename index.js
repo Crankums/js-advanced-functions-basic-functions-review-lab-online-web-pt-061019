@@ -30,3 +30,7 @@ let Calculator = {
     return (a/b)
   }
 }
+
+function actionApplyer () {
+  
+}
