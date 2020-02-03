@@ -40,7 +40,7 @@ function actionApplyer (int, arr) {
       for (let i = 0; i < arr.length; i++) {
         returnValue = arr[i](returnValue)
       }
-      
+
     }
   return returnValue
 }
