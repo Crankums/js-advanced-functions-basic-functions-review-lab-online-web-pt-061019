@@ -9,6 +9,6 @@ function mondayWork (activity = "go to the office") {
 
 function wrapAdjective(flair = "a%"){
   return function(param = "special") {
-    console.log(`You are a ${flair} ${param} ${flair}`)
+    `You are a ${flair} ${param} ${flair}!`
   }
 }
