@@ -13,4 +13,8 @@ let wrapAdjective = function(flair = "*"){
   }
 }
 
-let Calculator = {}
+let Calculator = {
+  let add = function(a,b) {
+    return (a + b)
+  }
+}
