@@ -32,6 +32,13 @@ let Calculator = {
 }
 
 function actionApplyer (int, arr) {
+  let returnValue = int
+
   if (arr.length === 0){
     return int}
+  else {
+      for (let i = 0; i < arr.length; i++) {
+        int = 
+      }
+    }
 }
